@@ -1,0 +1,4 @@
+
+para consumir una api en js con callbacks  se necesita installar ajax
+
+npm install xmlhttprequest --save

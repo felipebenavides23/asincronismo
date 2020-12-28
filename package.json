@@ -1,0 +1,24 @@
+{
+  "name": "curso_asincronismo",
+  "version": "1.0.0",
+  "description": "asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback2": "node src/callback/challenge.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipebenavides23/asincronismo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipebenavides23/asincronismo/issues"
+  },
+  "homepage": "https://github.com/felipebenavides23/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

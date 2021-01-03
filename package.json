@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "callback": "node src/callback/index.js",
-    "callback2": "node src/callback/challenge.js"
+    "callback2": "node src/callback/challenge.js",
+    "promesa": "node src/promesas/promesa.js",
+    "de_promesa" :"node src/promesas/reto_promesas.js",
+    "async": "node src/async/async.js",
+    "reto_async": "node src/async/reto_async.js"
+
     
   },
   "repository": {
